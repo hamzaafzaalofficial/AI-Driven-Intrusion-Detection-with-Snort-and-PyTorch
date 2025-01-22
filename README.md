@@ -20,6 +20,7 @@ This project implements an AI-enhanced Intrusion Detection System by integrating
 - Python 3.x
 - PyTorch
 - Linux (Ubuntu recommended)
+- Dataset: https://www.kaggle.com/datasets/ernie55ernie/improved-cicids2017-and-csecicids2018/data
 
-### Further Refer to localterminal.bash 
+### Further Refer to localterminal.bash file for detailed step by step proccedure
 ---
