@@ -21,4 +21,5 @@ This project implements an AI-enhanced Intrusion Detection System by integrating
 - PyTorch
 - Linux (Ubuntu recommended)
 
+### Further Refer to localterminal.bash 
 ---
